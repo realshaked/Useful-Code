@@ -1,0 +1,29 @@
+Comandos do git/outras coisas interessantes::
+
+LINUX/UNIX/SHELL
+{
+mkdir - faz um diretório
+rmdir - deleta um diretório vazio
+cd - muda de diretório
+touch - cria uma pasta
+rm - remove uma pasta
+rm -r remove qualquer coisa mesmo que esteja com pasta dentro
+}
+
+GIT
+{
+git init - inicializa um repositório git
+git status - status
+git add - é o que você quer salvar com o git //git add x.formato(uma pasta) .(tudo)
+git commit -m 'add comds and cod file' (uma mensagem sobre o que você está salvando)
+git log - olhar as vezes que você salvou
+git checkout - volta para o primeiro save (cria um branch)
+git branch - mostra os branches criados
+git checkout -b - cria um novo branch
+git branch -d - deleta um branch
+git merge - mistura dois branches
+git remote add origin (link) - manda pro github
+git push -u origin master
+git clone (clone)
+git pull - pega do github
+}
