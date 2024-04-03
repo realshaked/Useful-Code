@@ -23,7 +23,7 @@ git checkout -b - cria um novo branch
 git branch -d - deleta um branch
 git merge - mistura dois branches
 git remote add origin (link) - manda pro github
-git push -u origin master
+git push -u origin Nome_do_branch
 git clone (clone)
 git pull - pega do github
 }
