@@ -1,5 +1,3 @@
-Comandos do git/outras coisas interessantes::
-
 LINUX/UNIX/SHELL
 {
 mkdir - faz um diretório
